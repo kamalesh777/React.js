@@ -1,0 +1,11 @@
+button {
+    border: 0;
+    outline: 0;
+    background-color: brown;
+    color: #fff;
+    padding: 15px 25px;
+}
+
+.active {
+    background-color: rgb(88, 15, 15);
+}

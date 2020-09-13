@@ -1,0 +1,11 @@
+.person {
+    border: 1px solid rgb(221, 221, 221);
+    margin: 16px auto;
+    max-width: 60%;
+    padding: 16px;
+    box-shadow: 2px 2px 4px #ccc;
+}
+input:focus{
+    border: 2px solid rgb(57, 160, 245);
+    outline: 0;
+}
